@@ -1,0 +1,20 @@
+.back {
+  background-color: #01c9be;
+  width: 650px;
+  display: flex;
+  position: relative;
+  left: 350px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px 25px 45px 65px;
+}
+
+table,
+tr,
+th,
+td {
+  width: 650px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
